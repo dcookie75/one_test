@@ -1,2 +1,2 @@
-ruby_test
+one_test
 =========
